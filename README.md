@@ -21,7 +21,7 @@ Gracz ma do wyboru cztery guziki ataku.
 ### Specjalny Atak
 
 Gracz może użyć specjalnego ataku, który jest mocniejszy od zwykłego ataku.
-- Specjalny atak jest dostępny tylko przez trzy rundy.
+- Specjalny atak nie może być używany cały czas.
 
 ### Uzdrawianie
 
